@@ -22,8 +22,8 @@ The same idea scales up to a folder. If you record a baseline of hashes, you can
 ## Setup
 
 ```bash
-git clone https://github.com/B3ardedW3irdo/file-integrity-checker.git
-cd file-integrity-checker
+git clone https://github.com/B3ardedW3irdo/file-integrity-check.git
+cd file-integrity-check
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
